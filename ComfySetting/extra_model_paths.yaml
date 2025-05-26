@@ -1,5 +1,5 @@
 comfyui:
-    base_path:  /content/drive/MyDrive/SD-Data/ComfyModel
+    base_path:  /content/drive/MyDrive/MesmerWolfies/SD-Data/ComfyModel
     is_default: false
     clip: clip
     clip_vision: clip_vision
